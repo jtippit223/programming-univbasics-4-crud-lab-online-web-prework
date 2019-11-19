@@ -34,7 +34,7 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  arry6 = 
+  arry6 = ["wow", "I", "am", "really", "learning", "arrays!"]
   arry6[0]
 end
 
