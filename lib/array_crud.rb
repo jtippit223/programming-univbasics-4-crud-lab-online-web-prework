@@ -19,7 +19,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  arry4 = [1, 2, 3]
+  arry4 = ["I", "am", "really", "learning", "arrays!"]]
   arry4.pop
 end
 
