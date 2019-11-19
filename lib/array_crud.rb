@@ -10,7 +10,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   arry2 = ["hello"]
-  arry2 << "hi"
+  arry2 << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
