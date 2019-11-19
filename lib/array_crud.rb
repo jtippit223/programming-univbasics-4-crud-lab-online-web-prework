@@ -45,6 +45,6 @@ end
 
 def update_element_from_index(array, index_number, element)
   arry8 = [1, 2, 3]
-  arry7[2] = 4
+  arry7[4] = 4
 
 end
